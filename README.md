@@ -9,6 +9,11 @@
 1. `git commit -m Message` - Save the changes made
 1. `git merge branchName` - Merge current active branch to branchName
 1. `git push origin branchName` - Push to remote repository
+1. `git pull` - Pull from remote repository to local repository
 1. `git log` - View the commit history
+1. `git rm` - Remove files from staging area
+1. `git tag commitID` - Give tag to commitID
+1. `git remove add variableName RemoteServerURL` - Connect local repository to remote server
 1. `git remote add origin url` - Adds remote origin to local repo
-1. `git diff commitId1 commitId2` - Compare both the commits.
+1. `git diff commitId1 commitId2` - Compare both the commits
+1. `git show commitID` - Shows metadata and changes in the commit 
