@@ -9,3 +9,4 @@
 1. git commit -m Message - Save the changes made
 1. git merge branchName - Merge current active branch to branchName
 1. git push origin branchName - Push to remote repository
+1. git log - View the commit history
