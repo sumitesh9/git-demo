@@ -11,4 +11,4 @@
 1. `git push origin branchName` - Push to remote repository
 1. `git log` - View the commit history
 1. `git remote add origin url` - Adds remote origin to local repo
-1. `git diff commitId1 commitId2 - Compare both the commits.
+1. `git diff commitId1 commitId2` - Compare both the commits.
